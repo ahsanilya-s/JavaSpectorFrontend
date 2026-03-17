@@ -1,0 +1,6 @@
+/*
+This is a mockup showing the replacements needed.
+1. src/file1.js: Replace 'DevSync' with 'JavaSpector'
+2. src/file2.js: Replace 'DevSync' with 'JavaSpector'
+3. src/file3.js: Replace 'DevSync' with 'JavaSpector'
+*/
